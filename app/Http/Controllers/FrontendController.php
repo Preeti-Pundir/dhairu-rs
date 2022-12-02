@@ -15,6 +15,12 @@ use Session;
 use Newsletter;
 use DB;
 use Hash;
+use Illuminate\Support\Facades\Auth as FacadesAuth;
+use Spatie\Newsletter\Newsletter as NewsletterNewsletter;
+
+
+use Symfony\Component\HttpFoundation\Session\Session as SessionSession;
+
 use Illuminate\Support\Str;
 use Illuminate\Http\Request;
 class FrontendController extends Controller

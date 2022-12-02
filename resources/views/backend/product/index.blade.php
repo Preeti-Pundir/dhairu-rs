@@ -29,7 +29,7 @@
               <th>area</th>
               <th>bedroom_size</th>
               <th>constuction</th>
-              <th>Brand</th>
+              {{-- <th>Brand</th> --}}
               <th>Stock</th>
               <th>Photo</th>
               <th>Status</th>
@@ -46,7 +46,7 @@
               <th>Discount</th>
               <th>Size</th>
               <th>Condition</th>
-              <th>Brand</th>
+              {{-- <th>Brand</th> --}}
               <th>Stock</th>
               <th>Photo</th>
               <th>Status</th>
